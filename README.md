@@ -40,19 +40,18 @@
   </a>
   </p>
 
-  <a href="https://app.daily.dev/akrista" target="_blank">
-    <img
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=21ca7hmfvx4lpeb37y7fs2vpq&redirect=true" target="_blank">
+<img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/2287075d79584a318146e601cf17d7b9.png?r=4rw"
-      alt="Akrista's Dev Card"
+      src="https://spotify-github-profile.vercel.app/api/view?uid=21ca7hmfvx4lpeb37y7fs2vpq&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false"
+      alt="Akrista's Spotify"
     />
-  </a>
+</a>
 
 - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)**
 
 - ⚙️ I use daily: **`.py`, `.sql`, `.md`, `.ipynb`, `.php`, `.js`, `.html`, `.css`**
--
 
 - 🌱 I’m currently learning about: **[Tensorflow](https://www.tensorflow.org/), [Jupyter Books](https://jupyterbook.org/en/stable/intro.html), [SvelteKit](https://kit.svelte.dev/)**
 
@@ -65,18 +64,17 @@
 - 📄 Know about my experiences: [Check my Resume!](https://drive.google.com/file/d/1HGJWLsQuW9MU1iBDew3fPABiCMs2JHMj/view?usp=sharing) or [My LinkedIn](https://linkedin.com/in/akrista/)
 
 </br>
-</br>
-</br>
-</br>
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=21ca7hmfvx4lpeb37y7fs2vpq&redirect=true" target="_blank">
-<img
+## Random Stats:
+
+  <a href="https://app.daily.dev/akrista" target="_blank">
+    <img
       width="256"
       align="right"
-      src="https://spotify-github-profile.vercel.app/api/view?uid=21ca7hmfvx4lpeb37y7fs2vpq&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false"
-      alt="Akrista's Spotify"
+      src="https://api.daily.dev/devcards/2287075d79584a318146e601cf17d7b9.png?r=4rw"
+      alt="Akrista's Dev Card"
     />
-</a>
+  </a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akrista&show_icons=true&locale=en&layout=compact&theme=onedark" alt="akrista" />
 
