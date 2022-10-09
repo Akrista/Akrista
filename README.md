@@ -3,6 +3,7 @@
 ### I'm Jorge Thomas, a computer geek who loves to code, so why not get paid for it?
 
 </br>
+
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=akrista&label=Profile%20views&color=0e75b6&style=flat" alt="akrista" />
   <a href="https://www.linkedin.com/in/akrista/">
@@ -30,13 +31,14 @@
     />
   </a>
   </br>
+  </br>
   <a href="https://discordapp.com/users/Akrista#1410">
   <img align="right" src="https://lanyard.cnrad.dev/api/130525871277735937" alt="akrista" />
   </a>
 
   <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=akrista&theme=onedark&no-bg=true&row=2&column=3&no-frame=true" alt="akrista" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akrista&theme=gruvbox&no-bg=true&row=2&column=3&no-frame=true" alt="akrista" />
   </a>
   </p>
 
@@ -64,8 +66,10 @@
 - 📄 Know about my experiences: [Check my Resume!](https://drive.google.com/file/d/1HGJWLsQuW9MU1iBDew3fPABiCMs2JHMj/view?usp=sharing) or [My LinkedIn](https://linkedin.com/in/akrista/)
 
 </br>
-
-## Random Stats:
+</br>
+</br>
+</br>
+</br>
 
   <a href="https://app.daily.dev/akrista" target="_blank">
     <img
@@ -76,10 +80,40 @@
     />
   </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akrista&show_icons=true&locale=en&layout=compact&theme=onedark" alt="akrista" />
+## 🔥 Streak stats
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akrista&show_icons=true&locale=en&layout=compact&theme=onedark" alt="akrista" />
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akrista&theme=gruvbox" alt="akrista" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=akrista&show_icons=true&locale=en&theme=onedark" alt="akrista" />
+## 📊 Github stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akrista&theme=onedark" alt="akrista" />
+<details>
+<summary>💻 GitHub Profile Stats</summary>
+
+</br>
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=akrista&show_icons=true&locale=en&theme=gruvbox" alt="Akrista's Github Stats" />
+</a>
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akrista&show_icons=true&locale=en&layout=demo&theme=gruvbox" alt="Most Used Languages" />
+</a>
+
+</details>
+
+<details>
+<summary>💻 Wakatime Stats</summary>
+
+</br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akrista&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="akrista" />
+</a>
+
+</details>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=Akrista&theme=gruvbox" alt="akrista" />
+</a>
