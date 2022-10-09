@@ -105,6 +105,8 @@
 
 </details>
 
+</br>
+
 <details>
 <summary>💻 Wakatime Stats</summary>
 
@@ -115,6 +117,8 @@
 </a>
 
 </details>
+
+</br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=Akrista&theme=gruvbox" alt="akrista" />
