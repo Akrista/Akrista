@@ -95,11 +95,11 @@
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=akrista&show_icons=true&locale=en&theme=gruvbox" alt="Akrista's Github Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=akrista&show_icons=true&locale=en&theme=gruvbox" alt="Akrista's Github Stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akrista&show_icons=true&locale=en&layout=demo&theme=gruvbox" alt="Most Used Languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=akrista&show_icons=true&locale=en&layout=demo&theme=gruvbox" alt="Most Used Languages" />
 </a>
 </div>
 
