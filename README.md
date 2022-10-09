@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there! 👋
 
 ### I'm Jorge Thomas, a computer geek who loves to code, so why not get paid for it?
 
@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=akrista&label=Profile%20views&color=0e75b6&style=flat" alt="akrista" />
   <a href="https://www.linkedin.com/in/akrista/">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat&color=0072b1&label=LinkedIn&message=%E2%9B%B3"
       alt="LinkedIn"
     />
   </a>
@@ -25,8 +25,8 @@
   </a>
     <a href="https://steamcommunity.com/id/akrista/">
     <img
-      src="https://img.shields.io/static/v1?logo=steam&style=flat&color=0072b1&label=Steam&message=%E2%98%86"
-      alt="LinkedIn"
+      src="https://img.shields.io/static/v1?logo=steam&style=flat&color=0072b1&label=Steam&message=%CE%BB"
+      alt="Steam"
     />
   </a>
   </br>
