@@ -108,7 +108,7 @@
 </br>
 
 <details>
-<summary>💻 Wakatime Stats</summary>
+<summary>⌚ Wakatime Stats</summary>
 
 </br>
 
