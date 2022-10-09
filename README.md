@@ -88,7 +88,7 @@
 
 <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 
-## 📊 Github stats
+## 📊 Coding Stats
 
 <details>
 <summary>💻 GitHub Profile Stats</summary>
@@ -115,6 +115,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akrista&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="akrista" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </details>
 
