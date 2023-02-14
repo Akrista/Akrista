@@ -19,7 +19,7 @@
     />
   </a>
     <a href="https://www.youtube.com/channel/UCXJa_ZGSEtalwFNbsupmjtg">
-<img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCXJa_ZGSEtalwFNbsupmjtg?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Youtube">
+<img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/:UCXJa_ZGSEtalwFNbsupmjtg?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Youtube">
   </a>
       <a href="https://discordapp.com/users/Akrista#1410">
 <img alt="Discord" src="https://img.shields.io/discord/354241190947717120?style=flat&color=0072b1&logoColor=ffffff&logo=discord&label=Discord">
