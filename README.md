@@ -53,17 +53,17 @@
 
 - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)**
 
-- ⚙️ I use daily: **`.py`, `.sql`, `.md`, `.ipynb`, `.php`, `.js`, `.html`, `.css`**
+- ⚙️ I use daily: **`.py`, `.sql`, `.md`, `.ipynb`, `.rs` , `.php`, `.js`, `.html`, `.css`**
 
-- 🌱 I’m currently learning about: **[Tensorflow](https://www.tensorflow.org/), [Jupyter Books](https://jupyterbook.org/en/stable/intro.html), [SvelteKit](https://kit.svelte.dev/)**
+- 🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [Polars](https://github.com/pola-rs/polars), [SvelteKit](https://kit.svelte.dev/)**
 
-- 👨‍💻 All of my projects are available at: **[https://akrista.github.io/](https://akrista.github.io/)** _(It sure needs to be updated hehe...)_
+- 👨‍💻 All of my projects are available at: **[https://github.com/Akrista](https://github.com/Akrista?tab=repositories)** _(It sure needs to be updated hehe...)_
 
-- 💬 Ask me about: **Laravel, Docker, Linux**
+- 💬 Ask me about: **Docker, Linux, SQL, Laravel**
 
 - 📫 How to reach me: **akristax@gmail.com**
 
-- 📄 Know about my experiences: [Check my Resume!](https://drive.google.com/file/d/1HGJWLsQuW9MU1iBDew3fPABiCMs2JHMj/view?usp=sharing) or [My LinkedIn](https://linkedin.com/in/akrista/)
+- 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1HGJWLsQuW9MU1iBDew3fPABiCMs2JHMj/view?usp=sharing) or [My LinkedIn](https://linkedin.com/in/akrista/)**
 
 </br>
 </br>
