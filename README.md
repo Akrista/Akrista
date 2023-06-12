@@ -100,7 +100,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrista&show_icons=true&locale=en&theme=gruvbox" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrista&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="Most Used Languages" />
 </a>
 
 </details>
