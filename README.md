@@ -208,5 +208,5 @@ _**NOTE:** Top languages does not indicate my skill level or anything like that.
 </br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Akrista&theme=gruvbox" alt="akrista" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akrista&theme=gruvbox" alt="akrista" />
 </a>
