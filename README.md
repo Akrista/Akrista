@@ -55,7 +55,7 @@
 
 - ⚙️ I use daily: **`.py`, `.sql`, `.md`, `.ipynb`, `.rs` , `.php`, `.js`, `.html`, `.css`**
 
-- 🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [Polars](https://github.com/pola-rs/polars), [SvelteKit](https://kit.svelte.dev/)**
+- 🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [Zig](https://github.com/ziglang/zig), [SvelteKit](https://kit.svelte.dev/)**
 
 - 👨‍💻 All of my projects are available at: **[https://github.com/Akrista](https://github.com/Akrista?tab=repositories)** _(It sure needs to be updated hehe...)_
 
