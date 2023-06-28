@@ -61,7 +61,7 @@
 
 - 💬 Ask me about: **Docker, Linux, SQL, Laravel**
 
-- 📫 How to reach me: **akristax@gmail.com**
+- 📫 How to reach me: **akristax@proton.me**
 
 - 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1HGJWLsQuW9MU1iBDew3fPABiCMs2JHMj/view?usp=sharing) or [My LinkedIn](https://linkedin.com/in/akrista/)**
 
