@@ -24,12 +24,9 @@
       <a href="https://discordapp.com/users/Akrista#1410">
 <img alt="Discord" src="https://img.shields.io/discord/354241190947717120?style=flat&color=0072b1&logoColor=ffffff&logo=discord&label=Discord">
   </a>
-    <a href="https://steamcommunity.com/id/akrista/">
-    <img
-      src="https://img.shields.io/static/v1?logo=steam&style=flat&color=0072b1&label=Steam&message=%CE%BB"
-      alt="Steam"
-    />
-  </a>
+  <a href="https://www.threads.net/@notakrista">
+    <img src="https://thread-count.vercel.app/thread-count/notakrista" alt="Akrista's Threads Account">
+</a>
   </br>
   </br>
   <a href="https://discordapp.com/users/Akrista#1410">
