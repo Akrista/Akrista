@@ -60,7 +60,7 @@
 
 - 📫 How to reach me: **akristax@proton.me**
 
-- 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1HGJWLsQuW9MU1iBDew3fPABiCMs2JHMj/view?usp=sharing) or [My LinkedIn](https://linkedin.com/in/akrista/)**
+- 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/akrista/)**
 
 </br>
 </br>
