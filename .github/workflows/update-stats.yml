@@ -1,11 +1,8 @@
 name: Waka Readme
 
-# ! Obtained from anmol098 Repo: https://github.com/anmol098/anmol098
-
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 00:00AM UTC
     - cron: '0 0 * * *'
 
 jobs:
@@ -13,7 +10,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -22,3 +19,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
+
