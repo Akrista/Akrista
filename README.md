@@ -39,11 +39,11 @@
   </a>
   </p>
 
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=21ca7hmfvx4lpeb37y7fs2vpq&redirect=true" target="_blank">
+  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
 <img
       width="256"
       align="right"
-      src="https://spotify-github-profile.vercel.app/api/view?uid=21ca7hmfvx4lpeb37y7fs2vpq&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false"
+      src="https://spotify-github-profile.vercel.app/api/view?uid=21ca7hmfvx4lpeb37y7fs2vpq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
       alt="Akrista's Spotify"
     />
 </a>
@@ -68,14 +68,7 @@
 </br>
 </br>
 
-  <a href="https://app.daily.dev/akrista" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/2287075d79584a318146e601cf17d7b9.png?r=4rw"
-      alt="Akrista's Dev Card"
-    />
-  </a>
+  <a href="https://app.daily.dev/akrista"><img src="https://api.daily.dev/devcards/v2/nQnOqdJn5BJngPoIsO4MP.png?type=default&r=hj6" width="256" alt="Akrista's Dev Card"/></a>
 
 ## 🔥 Streak stats
 
