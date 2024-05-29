@@ -48,7 +48,7 @@
 <!--     /> -->
 <!-- </a> -->
 
-<a href="https://app.daily.dev/akrista"><img src="https://api.daily.dev/devcards/v2/nQnOqdJn5BJngPoIsO4MP.png?type=default&r=hj6" width="256" alt="Akrista's Dev Card"/></a>
+<a href="https://app.daily.dev/akrista"><img src="https://api.daily.dev/devcards/v2/nQnOqdJn5BJngPoIsO4MP.png?type=default&r=hj6" width="256" align="right" alt="Akrista's Dev Card"/></a>
 
 - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)**
 
