@@ -39,14 +39,16 @@
   </a>
   </p>
 
-  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-<img
-      width="256"
-      align="right"
-      src="https://spotify-github-profile.vercel.app/api/view?uid=21ca7hmfvx4lpeb37y7fs2vpq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
-      alt="Akrista's Spotify"
-    />
-</a>
+<!--   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank"> -->
+<!-- <img -->
+<!--       width="256" -->
+<!--       align="right" -->
+<!--       src="https://spotify-github-profile.vercel.app/api/view?uid=21ca7hmfvx4lpeb37y7fs2vpq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" -->
+<!--       alt="Akrista's Spotify" -->
+<!--     /> -->
+<!-- </a> -->
+
+<a href="https://app.daily.dev/akrista"><img src="https://api.daily.dev/devcards/v2/nQnOqdJn5BJngPoIsO4MP.png?type=default&r=hj6" width="256" alt="Akrista's Dev Card"/></a>
 
 - 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)**
 
@@ -67,8 +69,6 @@
 </br>
 </br>
 </br>
-
-  <a href="https://app.daily.dev/akrista"><img src="https://api.daily.dev/devcards/v2/nQnOqdJn5BJngPoIsO4MP.png?type=default&r=hj6" width="256" alt="Akrista's Dev Card"/></a>
 
 ## 🔥 Streak stats
 
